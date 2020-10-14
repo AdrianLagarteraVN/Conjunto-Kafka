@@ -1,0 +1,6 @@
+[submodule "Spring-Kafka-Producer"]
+	path = Spring-Kafka-Producer
+	url = https://github.com/AdrianLagarteraVN/Spring-Kafka-Producer
+[submodule "Spring-Kafka-Consumer"]
+	path = Spring-Kafka-Consumer
+	url = https://github.com/AdrianLagarteraVN/Spring-Kafka-Consumer
